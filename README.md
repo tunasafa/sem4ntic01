@@ -295,11 +295,11 @@ Contributions are welcome! Here's how you can help:
 
 ### Ways to Contribute
 
-- 🐛 **Report bugs** 
-- 💡 **Suggest features**
-- 📝 **Improve documentation** 
-- 🎨 **UI/UX improvements**
-- ⚡ **Performance optimizations**
+-  **Report bugs** 
+-  **Suggest features**
+-  **Improve documentation** 
+-  **UI/UX improvements**
+-  **Performance optimizations**
 
 ### Development Workflow
 

@@ -307,43 +307,17 @@ Open [http://localhost:3000](http://localhost:3000)
 
 ---
 
-## Project Structure
-
-```
-semantic-segmentation-navigation/
-├── src/
-│   ├── app/
-│   │   ├── api/segment/      # API routes
-│   │   ├── globals.css       # Global styles
-│   │   ├── layout.tsx        # Root layout
-│   │   └── page.tsx          # Main segmentation UI
-│   ├── components/ui/        # Reusable components
-│   ├── hooks/                # Custom React hooks
-│   └── lib/                  # Utilities
-├── mini-services/
-│   └── segmentation-service/
-│       ├── index.py          # FastAPI + YOLOv8 service
-│       └── requirements.txt  # Python dependencies
-├── docs/
-│   └── ALGORITHMS.md         # Technical documentation
-├── .github/                  # GitHub templates
-├── public/                   # Static assets
-└── package.json
-```
-
----
-
 ## Contributing
 
 Contributions are welcome! Here's how you can help:
 
 ### Ways to Contribute
 
-- 🐛 **Report bugs** — [Open an issue](https://github.com/tunasafa/semantic-segmentation-navigation/issues/new?template=bug_report.md)
-- 💡 **Suggest features** — [Create a feature request](https://github.com/tunasafa/semantic-segmentation-navigation/issues/new?template=feature_request.md)
-- 📝 **Improve documentation** — Submit a PR
-- 🎨 **UI/UX improvements** — Make it prettier
-- ⚡ **Performance optimizations** — Make it faster
+- 🐛 **Report bugs** 
+- 💡 **Suggest features**
+- 📝 **Improve documentation** 
+- 🎨 **UI/UX improvements**
+- ⚡ **Performance optimizations**
 
 ### Development Workflow
 

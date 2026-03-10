@@ -38,29 +38,8 @@ This system does all of that, running smoothly on a laptop.
 
 ## What You'll See
 
-<table>
-  <tr>
-    <th>Live Detection</th>
-    <th>Object Priority</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://via.placeholder.com/400x225/000000/00ff00?text=Camera+Feed+%2B+AI+Overlay" alt="Detection Demo" width="400"/>
-      <br/>
-      <sub>Real-time segmentation overlay</sub>
-    </td>
-    <td align="center">
-      <table>
-        <tr><th>Priority</th><th>Object</th><th>Action</th></tr>
-        <tr><td><code>P10</code> 🔴</td><td>Person</td><td><b>STOP</b></td></tr>
-        <tr><td><code>P9</code> 🟠</td><td>Animals</td><td>Avoid</td></tr>
-        <tr><td><code>P8</code> 🟡</td><td>Vehicles</td><td>Caution</td></tr>
-        <tr><td><code>P7</code> 🔵</td><td>Traffic</td><td>Obey</td></tr>
-        <tr><td><code>P3-5</code> ⚪</td><td>Obstacles</td><td>Navigate</td></tr>
-      </table>
-    </td>
-  </tr>
-</table>
+<img width="2508" height="1288" alt="Screenshot 2026-03-10 at 12 13 52" src="https://github.com/user-attachments/assets/1971bd10-29df-4838-a82a-6afca039d8e8" />
+
 
 ---
 

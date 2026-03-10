@@ -41,6 +41,9 @@ This system does all of that, running smoothly on a laptop.
 <img width="2508" height="1288" alt="Screenshot 2026-03-10 at 12 13 52" src="https://github.com/user-attachments/assets/1971bd10-29df-4838-a82a-6afca039d8e8" />
 
 
+<img width="2508" height="1287" alt="Screenshot 2026-03-10 at 12 18 28" src="https://github.com/user-attachments/assets/de480f28-809e-4e17-b8c4-848f7f96390c" />
+
+
 ---
 
 ## System Architecture

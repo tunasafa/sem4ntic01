@@ -78,39 +78,6 @@ graph LR
 
 ---
 
-## Performance Benchmarks
-
-### Inference Speed by Device
-
-```
-Apple M1/M2/M3     ████████████████████  55 FPS  (18ms)
-NVIDIA RTX 4090    ████████████████████████████████████  200 FPS (5ms)
-NVIDIA RTX 3080    ██████████████████████████████  125 FPS (8ms)
-Intel i7 CPU       ████████  12 FPS (80ms)
-```
-
-### Latency Breakdown
-
-| Stage | Time | Percentage |
-|-------|------|------------|
-| Frame Capture | 2ms | 6% |
-| Preprocessing | 3ms | 9% |
-| **AI Inference** | **18ms** | **51%** |
-| Post-processing | 5ms | 14% |
-| Network Transfer | 2ms | 6% |
-| Display Render | 5ms | 14% |
-| **Total** | **35ms** | **100%** |
-
-### Resource Usage
-
-```
-Memory:     ████████████████░░░░░░░░░░  1.1 GB / 4 GB
-CPU:        ████████░░░░░░░░░░░░░░░░░░  32%
-GPU (MPS):  ████████████████░░░░░░░░░░  65%
-```
-
----
-
 ## How It Works
 
 ### Object Detection Pipeline
